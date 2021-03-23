@@ -1,0 +1,17 @@
+{
+  "name": "wcl-poc",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/My-POC-Sandbox/WCL-POC.git"
+  },
+  "scripts": {
+    "docs:serve": "docsify serve ./docs -o"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.3",
+    "lerna": "^4.0.0"
+  }
+}

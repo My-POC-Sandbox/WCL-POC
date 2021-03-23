@@ -1,0 +1,13 @@
+{
+  "version": "independent",
+  "npmClient": "yarn",
+  "command": {
+    "publish": {
+      "registry": "https://npm.pkg.github.com/",
+      "message": "chore: new release",
+      "conventionalCommits": true,
+      "yes": true
+    }
+  },
+  "packages": ["packages/*"]
+}
