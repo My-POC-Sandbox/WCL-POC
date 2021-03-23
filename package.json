@@ -8,7 +8,9 @@
     "url": "git://github.com/My-POC-Sandbox/WCL-POC.git"
   },
   "scripts": {
-    "docs:serve": "docsify serve ./docs -o"
+    "docs:update-changelog": "sh ./scripts/update-changelogs.sh",
+    "docs:serve": "docsify serve ./docs -o",
+    "package:publish": "lerna publish && yarn docs:update-changelog"
   },
   "devDependencies": {
     "docsify-cli": "^4.4.3",

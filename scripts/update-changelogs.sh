@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo Copying wcl-core changelog...
+cp ./packages/wcl-core/CHANGELOG.md ./docs/changelog/core.md
+
+echo Copying wcl-icons changelog...
+cp ./packages/wcl-icons/CHANGELOG.md ./docs/changelog/icons.md
+
+echo Copying wcl-styles changelog...
+cp ./packages/wcl-styles/CHANGELOG.md ./docs/changelog/styles.md
+
+echo Copying wcl-utils changelog...
+cp ./packages/wcl-utils/CHANGELOG.md ./docs/changelog/utils.md
