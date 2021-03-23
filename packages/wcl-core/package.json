@@ -1,0 +1,17 @@
+{
+    "name": "@my-poc-sandbox/wcl-core",
+    "version": "1.0.0",
+    "main": "index.ts",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/My-POC-Sandbox/WCL-POC.git",
+      "directory": "packages/wcl-core"
+    },
+    "dependencies": {
+      "@my-poc-sandbox/wcl-icons": "^1.0.0",
+      "@my-poc-sandbox/wcl-styles": "^1.0.0",
+      "@my-poc-sandbox/wcl-utils": "^1.0.0"
+    }
+  }
+  
