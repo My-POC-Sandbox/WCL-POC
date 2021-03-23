@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/My-POC-Sandbox/WCL-POC.git"
+    "url": "git://github.com/my-poc-sandbox/wcl-poc.git"
   },
   "scripts": {
     "docs:update-changelog": "sh ./scripts/update-changelogs.sh",
