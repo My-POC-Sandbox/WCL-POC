@@ -1,0 +1,13 @@
+- [Getting Started](/)
+- WCL
+  - [Overview](wcl/overview.md)
+  - [Packages](wcl/packages.md)
+- Guides
+  - [Running Locally](guides/setup.md)
+  - [Creating a Component](guides/component.md)
+  - [Submitting Changes](guides/submit.md)
+  - [Publishing a Package](guides/publish.md)
+- Release
+  - [Changelog](release/changelog.md)
+  - [Contributors](release/contributors.md)
+  - [Useful Links](release/links.md)
