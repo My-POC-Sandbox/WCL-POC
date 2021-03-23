@@ -7,7 +7,11 @@
   - [Creating a Component](guides/component.md)
   - [Submitting Changes](guides/submit.md)
   - [Publishing a Package](guides/publish.md)
+- Changelog
+  - [Core](changelog/core.md)
+  - [Icons](changelog/icons.md)
+  - [Styles](changelog/styles.md)
+  - [Utils](changelog/utils.md)
 - Release
-  - [Changelog](release/changelog.md)
   - [Contributors](release/contributors.md)
   - [Useful Links](release/links.md)
