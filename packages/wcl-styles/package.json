@@ -1,12 +1,11 @@
 {
-    "name": "@my-poc-sandbox/wcl-styles",
-    "version": "1.0.0",
-    "main": "index.ts",
-    "license": "MIT",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/My-POC-Sandbox/WCL-POC.git",
-      "directory": "packages/wcl-styles"
-    }
+  "name": "@my-poc-sandbox/wcl-styles",
+  "version": "1.0.1",
+  "main": "index.ts",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/My-POC-Sandbox/WCL-POC.git",
+    "directory": "packages/wcl-styles"
   }
-  
+}
